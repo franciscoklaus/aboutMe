@@ -11670,3 +11670,11 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
+#message {
+  background-color:#20c997;
+  color: #fff;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+}
