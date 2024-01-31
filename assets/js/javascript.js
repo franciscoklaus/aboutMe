@@ -195,6 +195,7 @@ function enviarFormulario(event) {
 
  // Envia a mensagem para o Telegram
  enviarMensagemTelegram(mensagemTelegram);
+ 
 }
 
 // Adiciona um listener de evento para o envio do formulário
